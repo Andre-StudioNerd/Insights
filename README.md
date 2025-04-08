@@ -54,4 +54,3 @@ Este projeto está sob a licença [MIT](LICENSE).
 ## 📬 Contato  
 Feito com 💡 por **André**  
 🔗 [Portfólio](https://andre-studionerd.github.io/andreportfolio)  
-> “Sem dados, você é apenas mais uma pessoa com uma opinião.” – W. Edwards Deming
